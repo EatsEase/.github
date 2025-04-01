@@ -1,4 +1,4 @@
-# VeggieHub
+# EatsEase
 Swipe, Discover, Enjoy – No More 'What to Eat' Dilemmas!
 
 - [SSDR Document](https://drive.google.com/file/d/1WpnRlxI66EhLcwGUOHeMxuMIDCL16GZn/view)
